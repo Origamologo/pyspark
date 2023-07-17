@@ -1,5 +1,5 @@
 Pipfile
 Pipfile.lock
 *.txt
-./rdd
-./rdd1
+/rdd
+/rdd1
