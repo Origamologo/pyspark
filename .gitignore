@@ -5,3 +5,4 @@ Pipfile.lock
 /rdd1
 /data/salida
 /data/data_DF
+*.parquet
