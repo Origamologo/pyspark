@@ -7,3 +7,4 @@ Pipfile.lock
 /data/data_DF
 *.parquet
 /output/
+/data/
